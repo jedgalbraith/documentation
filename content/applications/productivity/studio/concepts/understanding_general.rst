@@ -14,7 +14,7 @@ Understanding General Concepts
 Getting started
 ===============
 
-One you start using Odoo Studio, you automatically create a new *module* that contains all your
+Once you start using Odoo Studio, you automatically create a new *module* that contains all your
 modifications. These modifications can be done on existing screens (*views*), by adding new
 *fields* in existing applications, or by creating an entirely new *model*.
 
